@@ -32,11 +32,6 @@ echo 'REPLICATE_API_TOKEN=tu_token_aqui' > .env
 # Ejecuta el script
 node index.js
 
-bash
-Copiar código
-node index.js
-Copiar código
-
 Este bloque de Markdown integra todos los pasos de instalación y uso en un solo lugar, ha
 Esto enviará un prompt al modelo de generación de texto y mostrará la respuesta en la consola.
 
