@@ -73,21 +73,24 @@ async function run() {
 }
 
 run();
-📝 Explicación
+
+## 📝 Explicación
 Replicate: Es una plataforma que permite ejecutar modelos de machine learning a través de una API. En este proyecto, se usa para generar texto basado en un prompt.
 dotenv: Carga las variables de entorno desde un archivo .env, facilitando la gestión de credenciales y configuraciones sensibles.
 Modelo: En el código, model-name debe ser reemplazado por el nombre del modelo específico que deseas utilizar.
-🤝 Contribuciones
+
+## 🤝 Contribuciones
 Si deseas contribuir al proyecto, por favor, sigue estos pasos:
 
 Haz un fork del repositorio.
 Crea una nueva rama para tu función o corrección.
 Realiza tus cambios y haz commit.
 Envía un pull request con una descripción clara de tus cambios.
-📜 Licencia
+
+## 📜 Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
 
-📧 Contacto
-Para cualquier consulta o pregunta, por favor contacta a tu_email@example.com.
+## 📧 Contacto
+Para cualquier consulta o pregunta, por favor contacta a marcosalvarezcalabria@gmail.com.
 
 ¡Gracias por visitar el proyecto!
