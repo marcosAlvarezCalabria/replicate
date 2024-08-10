@@ -7,7 +7,7 @@ const replicate = new Replicate({
 });
 
 const input = {
-  prompt: "puedes mandarme recetas "
+  prompt: "quiero recetas de comida china "//aqui ponemos lo que queramos preguntar
 };
 
 async function run() {
