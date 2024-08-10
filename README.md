@@ -11,7 +11,8 @@ El objetivo de este proyecto es demostrar cómo se puede utilizar la API de Repl
 - Node.js (v14 o superior recomendado)
 - npm (gestor de paquetes de Node.js)
 
-## 📥 Instalación
+
+## 📥 Instalación y Uso
 
 1. **Clona el repositorio:**
 
@@ -34,7 +35,6 @@ Crea un archivo .env en el directorio raíz del proyecto y añade tu token de AP
 env
 Copiar código
 REPLICATE_API_TOKEN=tu_token_aqui
-▶️ Uso
 Ejecuta el script:
 
 Ejecuta el archivo index.js usando Node.js:
@@ -42,6 +42,9 @@ Ejecuta el archivo index.js usando Node.js:
 bash
 Copiar código
 node index.js
+Copiar código
+
+Este bloque de Markdown integra todos los pasos de instalación y uso en un solo lugar, ha
 Esto enviará un prompt al modelo de generación de texto y mostrará la respuesta en la consola.
 
 💻 Ejemplo de Código
