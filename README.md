@@ -12,32 +12,25 @@ El objetivo de este proyecto es demostrar cómo se puede utilizar la API de Repl
 - npm (gestor de paquetes de Node.js)
 
 
+
 ## 📥 Instalación y Uso
 
-1. **Clona el repositorio:**
+```bash
+# Clona el repositorio
+git clone https://github.com/tu_usuario/tu_repositorio.git
 
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-Accede al directorio del proyecto:
-
-bash
-Copiar código
+# Accede al directorio del proyecto
 cd tu_repositorio
-Instala las dependencias:
 
-bash
-Copiar código
+# Instala las dependencias
 npm install
-Configura las variables de entorno:
 
-Crea un archivo .env en el directorio raíz del proyecto y añade tu token de API de Replicate:
+# Configura las variables de entorno
+# Crea un archivo .env en el directorio raíz del proyecto y añade tu token de API de Replicate
+echo 'REPLICATE_API_TOKEN=tu_token_aqui' > .env
 
-env
-Copiar código
-REPLICATE_API_TOKEN=tu_token_aqui
-Ejecuta el script:
-
-Ejecuta el archivo index.js usando Node.js:
+# Ejecuta el script
+node index.js
 
 bash
 Copiar código
